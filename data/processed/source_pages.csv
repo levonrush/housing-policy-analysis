@@ -1,10 +1,11 @@
 source_name,url
 abs_total_value_dwellings,https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release
-abs_residential_property_price_indexes_archived,https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+abs_residential_property_price_indexes,https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
 abs_wage_price_index,https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/latest-release
 abs_average_weekly_earnings,https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/latest-release
 abs_cpi,https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release
 abs_population_nom,https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release
 abs_building_activity,https://www.abs.gov.au/statistics/industry/building-and-construction/building-activity-australia/latest-release
+abs_building_approvals,https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
 abs_lending_indicators,https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
 ato_taxation_statistics,https://www.ato.gov.au/about-ato/research-and-statistics/in-detail/taxation-statistics/taxation-statistics-previous-editions
